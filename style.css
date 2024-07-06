@@ -1,0 +1,40 @@
+body {
+    background-image: url('bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh; /*Optional: Ensures the body takes full viewport height   */
+}
+.Searchcity{
+    list-style-type: none;
+    margin: 150px 0px 0px 700px;
+    height: 35px;
+    width: 400px;
+    font-size: 0.8rem;
+    text-align: center;
+
+}
+.navbar li{
+    list-style-type: none;
+    color: white;
+}
+h1{
+    color: white;
+}
+.forecast{
+    border: 2px solid white;
+    border-radius: 20px;
+    background-color: white;
+    color: black;
+    height: 20px;
+    width: 200px;
+    text-align: center;
+    margin: 150px 100px 0px ;
+    display: inline-flex;
+}
+.Airquality_data{
+    margin-left: 10px;
+    
+}
+
+
+
